@@ -6,6 +6,8 @@ IsoDetect is implemented in Python. Prerequisites of IsoDetect include Bowtie (v
 
 # Run
 From the Linux command line, users can use the following code to run IsoDetect:
+``` bash
 sh run_isodetect.sh
 
+```
 For any questions, please contact: hongdong@csu.edu.cn
